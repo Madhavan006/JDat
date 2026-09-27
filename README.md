@@ -325,7 +325,7 @@ SOFTWARE.
 
 - **GitHub**: [@Madhavan006](https://github.com/Madhavan006)
 - **Project**: [JDat](https://github.com/Madhavan006/JDat)
-- **Email**: [your.email@example.com]
+- **Email**: madhan01006@gmail.com
 
 ---
 
