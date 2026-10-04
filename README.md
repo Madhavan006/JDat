@@ -331,4 +331,4 @@ SOFTWARE.
 
 **JDat** - DataFrame functionality for Java, without the Python overhead.
 
-*Built with ❤️ for the Java community*
+
