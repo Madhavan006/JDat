@@ -321,11 +321,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 📞 Contact
 
-- **GitHub**: [@Madhavan006](https://github.com/Madhavan006)
-- **Project**: [JDat](https://github.com/Madhavan006/JDat)
-- **Email**: madhan01006@gmail.com
 
 ---
 
